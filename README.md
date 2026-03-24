@@ -2,8 +2,8 @@ en number# program-1-b-
 C module 1
 EX NO-1)b)- Find whether a number is positive or not.
 Date:19/10/2025
-Name: VASANTH S
-Ref no: 25017538
+Name: E . Vamsi krishna
+Ref no: 25005454
 
 AIM:
 Write a C program to check whether a given number is positive or not.
